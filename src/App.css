@@ -1,0 +1,7 @@
+.App-container {
+  font-family: sans-serif;
+}
+
+:focus {
+  outline: 4px solid red;
+}
